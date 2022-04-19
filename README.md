@@ -1,1 +1,1 @@
-
+This is an Expense management swebsite as a part of 6th semester Database Management project created by Prateek Anand(RA1911027010042) and Saksham Bansal(RA1911027010054) using sql, sqlite3 and tkinter.
